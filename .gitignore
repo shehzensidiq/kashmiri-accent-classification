@@ -1,0 +1,7 @@
+*.json
+./Dataset/mfcc24.json
+./Dataset/mfcc48.json
+./Dataset/mfcc96.json
+./Dataset/spectrograms.json
+.idea
+./Dataset/.ipynb_checkpoints
